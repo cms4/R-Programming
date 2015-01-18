@@ -1,0 +1,7 @@
+library("swirl")
+ls()
+rm(list=ls())
+swirl()
+list.files()
+list.files
+swirl()
